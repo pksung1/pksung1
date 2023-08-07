@@ -1,0 +1,41 @@
+---
+title: nextjs로 github pages 블로그 구축하기 (1)
+date: '2023-08-08'
+description: 왜? 어떻게 해서 nextjs로 블로그를 구축할것인가
+---
+
+# nextjs로 github pages 블로그 구축하기 (1)
+
+## 왜 nextjs를 골랐을까?
+
+개발 블로그를 구축하는데엔 사용할수 있는 여러가지 라이브러리가 있다.
+
+유명한것들은 [jekyll](https://jekyllrb.com/), [gatsby](https://www.gatsbyjs.com/), 단순 docs로 만든다면 [vuepress](https://vuepress.vuejs.org/)등이 있을것같다.
+
+그런데 왜 nextjs를 골랐을까?
+
+일단 요구사항들을 먼저 써넣는다면
+
+- 여러 디스플레이를 대응할수 있어야한다.
+- SEO에 효과적이여야 한다.
+- 페이지 로드가 빨라야한다.
+- 개인적으로 나중에 canvas화면을 넣을생각이다. 자유도가 있어야한다.
+- 실험적으로도 사용할수 있어야한다.
+- static site generator를 사용해야한다 (mdx)
+
+가장 큰 이유는 자유도이기 때문에, gatsby와 jekyll에 종속되기보단 nextjs로 원하는 화면에 배치할수 있도록 하며 static site generator까지 가져가기 위해서 nextjs를 선택하였다.
+
+익숙한 tailwindcss로 화면을 디자인할 예정이다.
+
+## 어떻게 구축할것인가?
+
+기능 요구사항은 아래와같다
+
+- mdx 서빙
+- mdx 렌더링 
+- slug에 따라 static generation page 생성
+- github pages에 배포가능해야 한다
+
+위 기능을 충족시킨 이후, 디자인을 해보는게 어떨까 싶다.
+
+하나씩 진행해보자, 일단 github pages에 배포를 먼저 해보는걸로 하자.

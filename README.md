@@ -1,34 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## 상상을 현실로 끌어오는 vidi입니다.
 
-## Getting Started
+사용자가 있는 플랫폼이라면 어떤것이든 개발합니다
 
-First, run the development server:
+제품을 사용자에게 전달하고, 전달된 제품을 피드백 기반으로 개선하고, 기업의 슬로건에 맞춰 어떻게 개선할지 고민합니다.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+최적의 시스템, 최고의 생산성을 만드는것에 대해 고민합니다.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+왜 이렇게 많은 기술스택을 넓게 공부하냐고 묻는다면, 어떤 상황에서도 적재적소의 기술을 다룰수 있어야 한다고 생각하기 때문입니다.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+성능이 부족하다면 더나은 성능을 위해 새로운것을 배워서라도 문제를 해결합니다.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## 기술스택
 
-## Learn More
+- SwiftUI, Jetpack Compose, Flutter, React Native, React, NextJS
+- nodejs, nestjs, AWS, Firebase
 
-To learn more about Next.js, take a look at the following resources:
+## Portfolio (작성중..)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 큐링이노스 (2021.09 ~ 현재)
+- 서비스 개발팀장 및 Task Management
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### 에너캠프
+- React Native 개발자
 
-## Deploy on Vercel
+### 딥하이
+- Frontend 개발자
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 프리랜서
+- 2023.06 삼성 바이오로직스 사내앱 개발
+- 2023.05 DMC 웹 반응형 퍼블리싱
+- 2022.10 공카 유지보수 및 지도, 예약 추가
+- 2022.06 세무사 카톡내역 개인정보 마스킹 (python)
