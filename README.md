@@ -32,3 +32,6 @@
 - 2023.05 DMC 웹 반응형 퍼블리싱
 - 2022.10 공카 유지보수 및 지도, 예약 추가
 - 2022.06 세무사 카톡내역 개인정보 마스킹 (python)
+
+## Contributed
+- [react-native-daummap - RN60 버전대응](https://github.com/asata/react-native-daummap/pull/19)
