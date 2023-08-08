@@ -34,4 +34,4 @@
 - 2022.06 세무사 카톡내역 개인정보 마스킹 (python)
 
 ## Contributed
-- [react-native-daummap - RN60 버전대응](https://github.com/asata/react-native-daummap/pull/19)
+- [react-native-daummap](https://github.com/asata/react-native-daummap/pull/19) - RN60 버전대응
