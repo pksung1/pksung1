@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,tailwind,swift,androidstudio,flutter" />
+    <img src="https://skillicons.dev/icons?i=react,swift,androidstudio,flutter" />
   </a>
 </p>
 
